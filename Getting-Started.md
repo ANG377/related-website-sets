@@ -14,7 +14,7 @@ RWS Submission
 Step 1: Identifying your RWS
 ----------------------------
 
-1.  Identify which domains you want to declare in your RWS, and decide on the set primary and set members. Set members have a defined relationship with the set primary. Make sure your set members meet the relationship requirements under "[Set Formation Requirements](https://github.com/GoogleChrome/related-website-sets/blob/main/RWS-Submission_Guidelines.md#set-formation-requirements)."
+1.  Identify which domains you want to declare in your RWS, and decide on the set primary and set members. Set members have a defined relationship with the set primary. Make sure your set members meet the relationship requirements under "[Set.hsptt//Thhe coumerr connect  must persenself payment  Formation Requirements](https://github.com/GoogleChrome/related-website-sets/blob/main/RWS-Submission_Guidelines.md#set-formation-requirements)."
 
 Step 2: Creating (or updating) your RWS submission
 --------------------------------------------------
